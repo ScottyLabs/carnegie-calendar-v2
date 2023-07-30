@@ -1,0 +1,4002 @@
+[{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423dfb"
+  },
+  "summary": "PhD Thesis Proposal: Lynn Kirabo, 'Forging a Path Towards Equity in Smart Public Transit Systems'",
+  "description": "Lynn Kirabo            \n                                          \n                              When\n                \n                  \n\n  Tuesday, June 14, 2022 - 9:00am                \n                                            Where\n                \n                  \n\n  Newell-Simon Hall 3305; also remote (see email announcement for location)                \n                                        \n                  \n                \n  \n      \n              Description\n        \n          \n\n  \nCommittee:\n\nAaron Steinfeld (chair), Carnegie Mellon University\n\nJessica Hammer, Carnegie Mellon University\n\nJeffrey P. Bigham, Carnegie Mellon University\n\nDestenie Nock, Carnegie Mellon University\n\nTawanna Dillahunt, University of Michigan\n\n \n\nAbstract\n\nPublic transit (PT) is the heartbeat of most cities around the world. It gives communities access to employment and services like health and education. Policy recommendations, interventions, and research on PT often focuses on drivers as the primary stakeholder. This same focus is evident in the recent proliferation of machine learning (ML) interventions in PT technologies. They neglect the influence and impact of these ML interventions on other stakeholders in the PT ecosystem. This focus runs the risk of automating inequities within future mobility systems. \n\n \n\nIn this dissertation, I argue that to design for equity in public transit, we should have an understanding of the broader PT ecosystems in which we are deploying transit AI technologies. My completed research studies traverse two geographic contexts, East Africa and North America. My work shows an underlying influence of trust on relationships within the ecosystem, and unique stakeholder appropriation of transit technologies. Conversely, we also found a suspicion of advanced smart transit interfaces. Thus, we propose that to design for equity in smart transit systems, designers and researchers should consider two dimensions of trust: trust in the interfaces and trust between stakeholders within the ecosystem. My proposed work focuses on the first dimension, trust in the interface. In Study 5, we will create a taxonomy of XAI principles, essential for the creation of inclusive smart transit interfaces, through co-design activities with disabled riders in North America. In study 6, we plan to demonstrate how these principles can improve users' experiences with smart transit interfaces by testing an interface that embodies the XAI principles. This thesis makes the following major contributions: 1) Establishes a multidimensional connection between Trust and Ecosystems, 2) Demonstrates a need to understand the entire ecosystem when considering new technologies, and 3) Demonstrates how methodologies can be adapted for research in these areas.\n\n \n\nDraft document:\n\nhttps://drive.google.com/file/d/1FqAfd4oWNz4CNq_xHhLvcjSYP6_99BI1/view?usp=sharing        \n                                Host\n        \n          \n\n  Queenie Kravitz",
+  "location": "Newell-Simon Hall 3305; also remote (see email announcement for location)",
+  "start_time": 1655211600,
+  "end_time": 1655211600,
+  "url": "https://hcii.cmu.edu/news/event/2022/06/phd-thesis-proposal-lynn-kirabo-forging-path-towards-equity-smart-public-transit-systems",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "SCS",
+    "HCII"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423dfc"
+  },
+  "summary": "HCII PhD Thesis Proposal:  Vikram Kamath Cannanure, 'DIA: Supporting Teacher Professional Development in Low Infrastructure Settings'",
+  "description": "Vikram Kamath Cannanure            \n                                          \n                              When\n                \n                  \n\n  Wednesday, June 15, 2022 - 9:30am                \n                                            Where\n                \n                  \n\n  GHC 6501                \n                                        \n                  \n                \n  \n      \n              Description\n        \n          \n\n  \n\nThesis Committee:\n\n\nTimothy Brown (Co-chair, EPP, ECE)\n\n\nAmy Ogan (Co-chair, HCII)\n\n\nMayank Goel (HCII, ISR)\n\n\nChinmay Kulkarni (HCII)\n\n\nKentaro Toyama (University of Michigan)\n\n\n \n\n\nAbstract:\n\n\nGovernments in developing countries aim to improve education through novel teaching approaches as taught in pedagogical programs. These pedagogical programs rely on government teacher training infrastructure. However, these programs face challenges in rural parts of Africa where there is a lack of experts and teachers are isolated. Therefore, pedagogical programs consider using technology to overcome some of these challenges.\n\n\n \n\n\nPrior work has used a conversational agent to address the challenges of limited expert knowledge and providing personalized interactions. Still, it is unclear how this work can translate to rural African contexts, with low technology infrastructure. Additionally, teachers in these contexts are newly adopting technology and thus require additional support to accommodate technology adoption. Therefore, there is a need to discover appropriate conversational agent designs that support these teachers implementing pedagogical programs in such low infrastructure settings.\n\n\n \n\n\nThis design process needs to overcome several practical, technological design, and theoretical challenges to find appropriate designs in this context. Beyond being usable, the designs had to support an intervention aligned with the teachers' goals and the professional development program. Lastly, theoretical grounding for designing technology in low resource contexts is still emerging.\n\n\n \n\n\nTherefore, I use an iterative design-based research (DBR) approach by working closely with teachers implementing a pedagogical program in rural Côte d’Ivoire to understand the problem context and technology designs and generate theory. My work iteratively identifies design directions and validates these directions through prototypes shared among the teacher community. In my proposed work, I intend to understand the impact of these features at scale.\n\n\n \n\n\nThis thesis proposal document describes prior work in this area (Chapter 2) before describing three studies that have been already conducted as part of the iterative design process (Study 1, 2a, 2b, and 3). My work has led to a conversational agent, which we dub 'DIA'. A key finding in these studies is that teachers valued community-based features. Therefore, I intend to learn: Will designs for community support have more impact than individual support towards teachers in low infrastructure settings?. To answer this question, I propose a large-scale and long-term study that seeks to understand the impact of community-based features at scale (Study 4).\n\n\n \n\n\nThis thesis intends to extend the literature on Human-Centered AI in low infrastructure settings through iterative design-based research. My work will also provide initial design recommendations for governments to utilize conversational agents to support teachers in implementing pedagogical programs.\n\n\n \n\n\nOn the theoretical front, my work expands designing for teacher 'aspirations' or long-term desires to allow sustainable systems. My theoretical grounding in aspirations led me to uncover the critical role of the teacher's community in supporting them in their career. Therefore, I designed participatory content in a conversational agent to allow teachers to connect to community members and rely on their collective agency. As aspirations are relatively emerging in low resource contexts for technology, my work extends the theory to designing technology.\n\n\n\n \n\n\nDraft document:\n\n\nhttps://bit.ly/vikram-phd-proposal\n\n\n\n         \n                                Host\n        \n          \n\n  Queenie Kravitz",
+  "location": "GHC 6501",
+  "start_time": 1655299800,
+  "end_time": 1655299800,
+  "url": "https://hcii.cmu.edu/news/event/2022/06/hcii-phd-thesis-proposal-vikram-kamath-cannanure-dia-supporting-teacher-professional-development-low-infrastructure-settings",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "SCS",
+    "HCII"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423dfd"
+  },
+  "summary": "PhD Thesis Defense: Kristin Williams",
+  "description": "Kristin Williams            \n                                          \n                              When\n                \n                  \n\n  Tuesday, June 21, 2022 - 12:00pm                \n                                            Where\n                \n                  \n\n  GHC 4405                \n                                        \n                  \n                \n  \n      \n              Description\n        \n          \n\n  \n\nMore information to come, as the date nears.        \n                                Host\n        \n          \n\n  Queenie Kravitz",
+  "location": "GHC 4405",
+  "start_time": 1655827200,
+  "end_time": 1655827200,
+  "url": "https://hcii.cmu.edu/news/event/2022/06/phd-thesis-defense-kristin-williams",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "SCS",
+    "HCII"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423dfe"
+  },
+  "summary": "PhD Thesis Defense:  Megan Hofmann",
+  "description": "Megan Hofmann            \n                                          \n                              When\n                \n                  \n\n  Monday, July 11, 2022 - 1:00pm                \n                                            Where\n                \n                  \n\n  Gates-Hillman Center 4405                \n                                        \n                  \n                \n  \n      \n              Description\n        \n          \n\n  \n\nMore information to come, as event nears.        \n                                Host\n        \n          \n\n  Queenie Kravitz",
+  "location": "Gates-Hillman Center 4405",
+  "start_time": 1657558800,
+  "end_time": 1657558800,
+  "url": "https://hcii.cmu.edu/news/event/2022/07/phd-thesis-defense-megan-hofmann",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "SCS",
+    "HCII"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423dff"
+  },
+  "summary": "PhD Thesis Defense:  Tomohiro Nagashima",
+  "description": "Tomohiro Nagashima            \n                                          \n                              When\n                \n                  \n\n  Monday, July 25, 2022 - 10:00am                \n                                            Where\n                \n                  \n\n  Remote (location will be listed in email announcement)                \n                                        \n                  \n                \n  \n      \n              Description\n        \n          \n\n  \n\nMore information to come, as event nears.\n\n\n         \n                                Host\n        \n          \n\n  Queenie Kravitz",
+  "location": "Remote (location will be listed in email announcement)",
+  "start_time": 1658757600,
+  "end_time": 1658757600,
+  "url": "https://hcii.cmu.edu/news/event/2022/07/phd-thesis-defense-tomohiro-nagashima",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "SCS",
+    "HCII"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e00"
+  },
+  "summary": "PhD Thesis Defense:  Saiganesh Swaminathan",
+  "description": "Saiganesh Swaminathan            \n                                          \n                              When\n                \n                  \n\n  Tuesday, July 26, 2022 - 1:30pm                \n                                            Where\n                \n                  \n\n  Gates-Hillman Center room 9115                \n                                        \n                  \n                \n  \n      \n              Description\n        \n          \n\n  \n\nMore information to come, as event nears.        \n                                Host\n        \n          \n\n  Queenie Kravitz",
+  "location": "Gates-Hillman Center room 9115",
+  "start_time": 1658856600,
+  "end_time": 1658856600,
+  "url": "https://hcii.cmu.edu/news/event/2022/07/phd-thesis-defense-saiganesh-swaminathan",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "SCS",
+    "HCII"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e01"
+  },
+  "summary": "Summer Break; No Classes",
+  "description": "For more information on the Academic Calendar, visit: https://www.cmu.edu/hub/calendar/",
+  "location": null,
+  "start_time": 1656388800,
+  "end_time": 1656734400,
+  "url": "https://calendar.time.ly/os8pvd4a/event/69927334/20220628000000",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "MCS",
+    "Mathematics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e02"
+  },
+  "summary": "Independence Day; No Classes",
+  "description": "For more information, visit the CMU Academic Calendar ",
+  "location": null,
+  "start_time": 1656907200,
+  "end_time": 1656993600,
+  "url": "https://calendar.time.ly/os8pvd4a/event/69927336/20220704000000",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "MCS",
+    "Mathematics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e03"
+  },
+  "summary": "Labor Day; No Classes",
+  "description": "For more information, visit the CMU Academic Calendar ",
+  "location": null,
+  "start_time": 1662350400,
+  "end_time": 1662436800,
+  "url": "https://calendar.time.ly/os8pvd4a/event/69927348/20220905000000",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "MCS",
+    "Mathematics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e04"
+  },
+  "summary": "Community Engagement;  NO CLASSES",
+  "description": "No Classes.  For more information, visit the CMU Academic Calendar ",
+  "location": null,
+  "start_time": 1665720000,
+  "end_time": 1665806400,
+  "url": "https://calendar.time.ly/os8pvd4a/event/69927351/20221014000000",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "MCS",
+    "Mathematics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e05"
+  },
+  "summary": "Mid-Semester Break; NO CLASSES",
+  "description": "No Classes.  For more information, visit the CMU Academic Calendar ",
+  "location": null,
+  "start_time": 1666324800,
+  "end_time": 1666411200,
+  "url": "https://calendar.time.ly/os8pvd4a/event/69927353/20221021000000",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "MCS",
+    "Mathematics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e06"
+  },
+  "summary": "Thanksgiving Break; NO CLASSES",
+  "description": "For more information, visit the CMU Academic Calendar ",
+  "location": null,
+  "start_time": 1669179600,
+  "end_time": 1669438800,
+  "url": "https://calendar.time.ly/os8pvd4a/event/69927355/20221123000000",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "MCS",
+    "Mathematics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e07"
+  },
+  "summary": "Final Exams",
+  "description": "For more information on the Academic Calendar, visit: https://www.cmu.edu/hub/calendar/",
+  "location": null,
+  "start_time": 1670821200,
+  "end_time": 1671426000,
+  "url": "https://calendar.time.ly/os8pvd4a/event/69927357/20221212000000",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "MCS",
+    "Mathematics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e08"
+  },
+  "summary": "Martin Luther King Day; No Classes",
+  "description": "University offices are closed. For more information on the Academic Calendar, visit: https://www.cmu.edu/hub/calendar/",
+  "location": null,
+  "start_time": 1673845200,
+  "end_time": 1673931600,
+  "url": "https://calendar.time.ly/os8pvd4a/event/69927359/20230116000000",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "MCS",
+    "Mathematics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e09"
+  },
+  "summary": "Mid-Semester Break; NO CLASSES",
+  "description": "No Classes.  For more information, visit the CMU Academic Calendar ",
+  "location": null,
+  "start_time": 1677819600,
+  "end_time": 1677906000,
+  "url": "https://calendar.time.ly/os8pvd4a/event/69927362/20230303000000",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "MCS",
+    "Mathematics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e0a"
+  },
+  "summary": "Spring Break; NO CLASSES",
+  "description": "For more information on the Academic Calendar, visit: https://www.cmu.edu/hub/calendar/",
+  "location": null,
+  "start_time": 1678078800,
+  "end_time": 1678165200,
+  "url": "https://calendar.time.ly/os8pvd4a/event/69927364/20230306000000",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "MCS",
+    "Mathematics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e0b"
+  },
+  "summary": "Ph.D.Thesis Defense: Hanif Cheung",
+  "description": "\n\n\nFINAL PUBLIC ORAL EXAMINATION FOR THE DEGREE OF DOCTOR OF PHILOSOPHY\nTitle of Dissertation:\nNotions of amalgamation for Abstract Elementary Classes\nExaminers:\nProf. Rami Grossberg (Committee Chair)Prof. Clinton ConleyProf. James CummingsProf. Andres VIllaveces (National University of Colombia, Bogota)\nFor connection details, please contact Christine Gilchrist.\n\n\n",
+  "location": "Remote",
+  "start_time": 1656093600,
+  "end_time": 1656097200,
+  "url": "https://calendar.time.ly/os8pvd4a/event/71993239/20220624140000",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "MCS",
+    "Mathematics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e0c"
+  },
+  "summary": "Probability/Math Finance Seminar: Ludovic Tangpi (Princeton University)",
+  "description": "Title: TBA\nAbstract: TBA",
+  "location": "Wean 8220 @ Hamerschlag Drive, Pittsburgh, Pennsylvania, 15213, United States",
+  "start_time": 1664224200,
+  "end_time": 1664227800,
+  "url": "https://calendar.time.ly/os8pvd4a/event/72018383/20220926163000",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "MCS",
+    "Mathematics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e0d"
+  },
+  "summary": "Juneteenth",
+  "description": "For more information on the Academic Calendar, visit: https://www.cmu.edu/hub/calendar/",
+  "location": null,
+  "start_time": 1655697600,
+  "end_time": 1655784000,
+  "url": "https://calendar.time.ly/os8pvd4a/event/72080606/20220620000000",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "MCS",
+    "Mathematics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e0e"
+  },
+  "summary": "Physics Colloquium: Matteo Cremonesi (Fermilab)",
+  "description": "Turning the LHC to the Dark Side: A Journey Through the Generic Way of Searching for Dark Matter at a Hadron Collider\n \n \n'The nature of dark matter is one of the most important open questions in modern physics. Although cosmological evidence confirms its existence, we know very little about what dark matter really is. Experiments at the Large Hadron Collider (LHC), the most powerful particle accelerator ever built, are primarily positioned to help shed light on this mystery. In this talk I will guide you through the generic approach to search for dark matter at the LHC, describing the experimental techniques, how results are interpreted, and future directions to keep the LHC dark matter search program at the cutting edge.'",
+  "location": "Wean 7316",
+  "start_time": 1655235000,
+  "end_time": 1655238600,
+  "url": "https://calendar.time.ly/os8pvd4a/event/72054742/20220614153000",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "MCS",
+    "Physics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e0f"
+  },
+  "summary": "Astronomy on Tap",
+  "description": "Two Frays Brewery \n(5113 PENN AVE)",
+  "location": null,
+  "start_time": 1656543600,
+  "end_time": 1656550800,
+  "url": "https://calendar.time.ly/os8pvd4a/event/72106174/20220629190000",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "MCS",
+    "Physics"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e10"
+  },
+  "summary": "Marcel Mayor, University of Basel",
+  "description": "Carnegie Mellon UniversityDepartment of ChemistrySpecial Summer Seminar\nRonan Le LagadecUniversiity of Basel\nTBA\nHost: Stefan Bernhard\nWednesday, July 13, 202212:00 p.m.\nMellon Institute Conference Room 348Zoom Link: see departmental email\nAbstract: TBA \nBio: TBA",
+  "location": "Mellon Institute 348 Conference Room",
+  "start_time": 1657728000,
+  "end_time": 1657731600,
+  "url": "https://calendar.time.ly/os8pvd4a/event/71822711/20220713120000",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "MCS",
+    "Chemistry"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e11"
+  },
+  "summary": "Thesis Defense: Eric Lopato, Bernhard Research Group",
+  "description": "Carnegie Mellon UniversityDepartment of ChemistryFinal Public Oral Examination for the Degree of Doctor of Philosophy \nEric Lopato Bernhard Research Group\nExploring Multidimensional Chemical Spaces in Photocatalytic Hydrogen Evolving Reactions\n \nMonday June 27, 20221:30 p.m.Mellon Institute Conference Room 348\nExaminers: Prof. Stefan Bernhard, Department of Chemistry, Carnegie Mellon University\nProf. Rongchao Jin Department of Chemistry, Carnegie Mellon University\nProf. David Yaron, Department of Chemistry, Carnegie Mellon University\nProf. James McKone, Department of Chemical and Petroleum Engineering, University of Pittsburgh",
+  "location": "348 Mellon Institute",
+  "start_time": 1656351000,
+  "end_time": 1656358200,
+  "url": "https://calendar.time.ly/os8pvd4a/event/72024640/20220627133000",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "MCS",
+    "Chemistry"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e12"
+  },
+  "summary": "Research Club: Anne Meyer",
+  "description": "Speaker: Anne Meyer Hinman Lab ",
+  "location": "Mellon Institute 348 Conference Room",
+  "start_time": 1655928000,
+  "end_time": 1655931600,
+  "url": "https://calendar.time.ly/os8pvd4a/event/69282336/20220622160000",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "MCS",
+    "Biology"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e13"
+  },
+  "summary": "Research Club: Eunsol Park",
+  "description": "Speaker: Eunsol ParkBarth Lab ",
+  "location": "Mellon Institute 348 Conference Room",
+  "start_time": 1656532800,
+  "end_time": 1656536400,
+  "url": "https://calendar.time.ly/os8pvd4a/event/69282338/20220629160000",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "MCS",
+    "Biology"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e14"
+  },
+  "summary": "Research Club: Paige Smith",
+  "description": "Speaker: Paige SmithRussell Lab",
+  "location": "Mellon Institute 348 Conference Room",
+  "start_time": 1657137600,
+  "end_time": 1657141200,
+  "url": "https://calendar.time.ly/os8pvd4a/event/69282346/20220706160000",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "MCS",
+    "Biology"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e15"
+  },
+  "summary": "Research Club: Gary Wilkins",
+  "description": "Speaker: Gary Wilkins Murphy Lab ",
+  "location": "Mellon Institute 348 Conference Room",
+  "start_time": 1657742400,
+  "end_time": 1657746000,
+  "url": "https://calendar.time.ly/os8pvd4a/event/69282347/20220713160000",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "MCS",
+    "Biology"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e16"
+  },
+  "summary": "Research Club: Matt Mosso",
+  "description": "Speaker: Matt MossoBarth Lab ",
+  "location": "Mellon Institute 348 Conference Room",
+  "start_time": 1658347200,
+  "end_time": 1658350800,
+  "url": "https://calendar.time.ly/os8pvd4a/event/69282350/20220720160000",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "MCS",
+    "Biology"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e17"
+  },
+  "summary": "Departmental Seminar: Yi-Fang Tsay",
+  "description": "Speaker: Yi-Fang Tsay, Ph.D. Institute of Molecular Biology Academia Sinica \nHost: John Woolford, Ph.D.",
+  "location": "MI Conference Room 348",
+  "start_time": 1667406000,
+  "end_time": 1667409600,
+  "url": "https://calendar.time.ly/os8pvd4a/event/71400858/20221102122000",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "MCS",
+    "Biology"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e18"
+  },
+  "summary": "Research Club: Alex Hsu",
+  "description": "Speaker: Alex Hsu Yttri Lab \n'Behavioral classification using neural activity' ",
+  "location": "Mellon Institute 348 Conference Room",
+  "start_time": 1655323200,
+  "end_time": 1655326800,
+  "url": "https://calendar.time.ly/os8pvd4a/event/72106149/20220615160000",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "MCS",
+    "Biology"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e19"
+  },
+  "summary": "Session Two & Mini-6 Pass/Fail Grade Deadline",
+  "description": "Converted by CSV-to-ICS Converter (Free Edition). Get your copy at https://csv-to-ics.com. This notification can be removed by purchasing a license.",
+  "location": "",
+  "start_time": 1658721600,
+  "end_time": 1658808000,
+  "url": null,
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "CFA",
+    "Architecture"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e1a"
+  },
+  "summary": "Session Two & Mini-6 Course Drop Deadline; Assign Withdrawal Grade after this date",
+  "description": "Converted by CSV-to-ICS Converter (Free Edition). Get your copy at https://csv-to-ics.com. This notification can be removed by purchasing a license.",
+  "location": "",
+  "start_time": 1657684800,
+  "end_time": 1657771200,
+  "url": null,
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "CFA",
+    "Architecture"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e1b"
+  },
+  "summary": "Session Two & Mini-6 Course Drop Deadline to Receive Tuition Adjustment",
+  "description": "Converted by CSV-to-ICS Converter (Free Edition). Get your copy at https://csv-to-ics.com. This notification can be removed by purchasing a license.",
+  "location": "",
+  "start_time": 1656993600,
+  "end_time": 1657080000,
+  "url": null,
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "CFA",
+    "Architecture"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e1c"
+  },
+  "summary": "Session Two & Mini-6 Classes Begin",
+  "description": "Converted by CSV-to-ICS Converter (Free Edition). Get your copy at https://csv-to-ics.com. This notification can be removed by purchasing a license.",
+  "location": "",
+  "start_time": 1656302400,
+  "end_time": 1656388800,
+  "url": null,
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "CFA",
+    "Architecture"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e1d"
+  },
+  "summary": "Session One & Mini-5 Last Day of Classes",
+  "description": "Converted by CSV-to-ICS Converter (Free Edition). Get your copy at https://csv-to-ics.com. This notification can be removed by purchasing a license.",
+  "location": "",
+  "start_time": 1655956800,
+  "end_time": 1656043200,
+  "url": null,
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "CFA",
+    "Architecture"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e1e"
+  },
+  "summary": "Session One & Mini-5 Final Grades Due by 4 pm",
+  "description": "Converted by CSV-to-ICS Converter (Free Edition). Get your copy at https://csv-to-ics.com. This notification can be removed by purchasing a license.",
+  "location": "",
+  "start_time": 1656388800,
+  "end_time": 1656475200,
+  "url": null,
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "CFA",
+    "Architecture"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e1f"
+  },
+  "summary": "Session One & Mini-5 Final Examinations",
+  "description": "Converted by CSV-to-ICS Converter (Free Edition). Get your copy at https://csv-to-ics.com. This notification can be removed by purchasing a license.",
+  "location": "",
+  "start_time": 1656043200,
+  "end_time": 1656129600,
+  "url": null,
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "CFA",
+    "Architecture"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e20"
+  },
+  "summary": "Session One & Mini-5 Course Evaluations",
+  "description": "Converted by CSV-to-ICS Converter (Free Edition). Get your copy at https://csv-to-ics.com. This notification can be removed by purchasing a license.",
+  "location": "",
+  "start_time": 1655697600,
+  "end_time": 1656129600,
+  "url": null,
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "CFA",
+    "Architecture"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e21"
+  },
+  "summary": "Session All, Session Two & Mini-6 Last Day of Classes",
+  "description": "Converted by CSV-to-ICS Converter (Free Edition). Get your copy at https://csv-to-ics.com. This notification can be removed by purchasing a license.",
+  "location": "",
+  "start_time": 1659585600,
+  "end_time": 1659672000,
+  "url": null,
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "CFA",
+    "Architecture"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e22"
+  },
+  "summary": "Session All, Session Two & Mini-6 Final Grades Due by 4 pm",
+  "description": "Converted by CSV-to-ICS Converter (Free Edition). Get your copy at https://csv-to-ics.com. This notification can be removed by purchasing a license.",
+  "location": "",
+  "start_time": 1660017600,
+  "end_time": 1660104000,
+  "url": null,
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "CFA",
+    "Architecture"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e23"
+  },
+  "summary": "Session All, Session Two & Mini-6 Final Exams",
+  "description": "Converted by CSV-to-ICS Converter (Free Edition). Get your copy at https://csv-to-ics.com. This notification can be removed by purchasing a license.",
+  "location": "",
+  "start_time": 1659672000,
+  "end_time": 1659758400,
+  "url": null,
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "CFA",
+    "Architecture"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e24"
+  },
+  "summary": "Session All, Session Two & Mini-6 Faculty Course Evaluations",
+  "description": "Converted by CSV-to-ICS Converter (Free Edition). Get your copy at https://csv-to-ics.com. This notification can be removed by purchasing a license.",
+  "location": "",
+  "start_time": 1659326400,
+  "end_time": 1659758400,
+  "url": null,
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "CFA",
+    "Architecture"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e25"
+  },
+  "summary": "Session All Pass/Fail Grade Deadline",
+  "description": "Converted by CSV-to-ICS Converter (Free Edition). Get your copy at https://csv-to-ics.com. This notification can be removed by purchasing a license.",
+  "location": "",
+  "start_time": 1657512000,
+  "end_time": 1657598400,
+  "url": null,
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "CFA",
+    "Architecture"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e26"
+  },
+  "summary": "Independence Day; No Classes",
+  "description": "Converted by CSV-to-ICS Converter (Free Edition). Get your copy at https://csv-to-ics.com. This notification can be removed by purchasing a license.",
+  "location": "",
+  "start_time": 1656907200,
+  "end_time": 1656993600,
+  "url": null,
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "CFA",
+    "Architecture"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e27"
+  },
+  "summary": "Pause for Gratitude",
+  "description": "Join CMU community members as we take time to pause and take stock of what is good in our lives and in the world. Sessions are casual; we start with a brief centering practice, often use a prompt to spark conversation, and share as we are ready to do so. Open to all. The Zoom link is the same each week.&nbsp;&nbsp;Join Pause for Gratitude",
+  "location": "Remote  ",
+  "start_time": 1655229600,
+  "end_time": 1655231400,
+  "url": null,
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "Dietrich",
+    "Dietrich"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e28"
+  },
+  "summary": "Student Academic Success Center Workshop: Writing Your Teaching Statement",
+  "description": "Getting ready for the academic job market? Writing your teaching philosophy can be a challenging part. This workshop will present structure and content of a teaching philosophy, and will help you learn how to interpret job ads and tailor your statement for different universities and positions.Learning Objectives: Learn strategies to align your learning     objectives with disciplinary values. Learn strategies for how to give concrete     examples of methodology used in your classroom.  Learn strategies for how to explicitly     link your teaching methods to learning objectives.Register for the June 15 workshop",
+  "location": "Zoom ",
+  "start_time": 1655323200,
+  "end_time": 1655326800,
+  "url": null,
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "Dietrich",
+    "Dietrich"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e29"
+  },
+  "summary": "Student Academic Success Center Workshop: Writing a Literature Review",
+  "description": "A related work section, or literature review, synthesizes relevant past literature to connect your work to the broader field. It also builds your credibility by showing your familiarity with major developments and trends in the field. However, it is easy for the literature review to become a “data dump” that overwhelms your reader with extraneous or irrelevant information. This workshop will give students strategies and language to connect research into trends and put studies in conversation with each other. We will look at strong and weak examples and focus on the language they use. This workshop is appropriate for students in the sciences and humanities, writing literature reviews in journal articles, research papers, dissertations/theses, and more. Learning Objectives:Learn strategies for synthesizing relevant past literature and connecting your work to the broader field.Practice putting previous studies in conversation with each other.Learn how to build your credibility by showing your familiarity with major developments and trends in your field. Register for the June 14 workshop",
+  "location": "Zoom ",
+  "start_time": 1655226000,
+  "end_time": 1655229600,
+  "url": null,
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "Dietrich",
+    "Dietrich"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e2a"
+  },
+  "summary": "Poetry Unplugged: Juneteenth Celebration at the August Wilson Center",
+  "description": "In honor of Juneteenth, the Student Center for Diversity and Inclusion invites you to join them at Poetry Unplugged, the August Wilson African American Cultural Center's Juneteenth Celebration! Students can request tickets sponsored by the Center using the link below. Tickets will be confirmed on Monday, June 13. If you are a faculty or staff member and are interested in a ticket, you may email csdi@andrew.cmu.edu&nbsp;and we will email you if there are available tickets. Tickets are limited to two per person.Request tickets",
+  "location": "August Wilson African American Cultural Center, 980 Liberty Ave, Pittsburgh, PA 15222, USA",
+  "start_time": 1655506800,
+  "end_time": 1655510400,
+  "url": null,
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "Dietrich",
+    "Dietrich"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e2b"
+  },
+  "summary": "Fork in the Road: From Inspiration to Action ",
+  "description": "Join us at the Frick Museum in Pittsburgh to enjoy an evening of conversation, exploration, and inspiration with DEIB leaders.&nbsp;Dr. Wanda Heading-Grant and Provost Jim Garrett will participate in this discussion about the need and desire for change in Pittsburgh.Event details and registration",
+  "location": "The Frick Pittsburgh, 7227 Reynolds St, Pittsburgh, PA 15208",
+  "start_time": 1655406000,
+  "end_time": 1655409600,
+  "url": null,
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "Dietrich",
+    "Dietrich"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e2c"
+  },
+  "summary": "Anti-Racism in Action Workshop",
+  "description": "Join Dr. Wanda-Heading Grant and Mark D’Angelo from the Office of the Vice Provost for Diversity, Equity, and Inclusion and Chief Diversity Officer for this engaging and interactive workshop exploring what it means to be anti-racist. Learn concepts, skills, and strategies to help translate your anti-racist beliefs and sentiments into action-oriented anti-racist allyship within the field of higher education and here at Carnegie Mellon University. Registration is limited and open to all CMU community members.Register Here",
+  "location": "TEP2611 ",
+  "start_time": 1655301600,
+  "end_time": 1655308800,
+  "url": null,
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "Dietrich",
+    "Dietrich"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e2d"
+  },
+  "summary": "Juneteenth 2022 Keynote Lecture with Jamelle Bouie",
+  "description": "Jamelle Bouie, a&nbsp;columnist for the New York Times and political analyst for CBS News, covers U.S. politics, public policy, elections, and race.Jamelle’s political instincts provide audiences with unique insight on the past, present, and future of our national politics, policy, and the state of race relations. As he did while writing for Slate and the Daily Beast, Jamelle shares eye-opening perspectives on issues concerning the issues at play in America today.Join us for this keynote event and conversation moderated by Dr. Wanda Heading-Grant.Register here",
+  "location": "Cohon University Center, Second Floor and live stream",
+  "start_time": 1655481600,
+  "end_time": 1655486100,
+  "url": null,
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "Dietrich",
+    "Dietrich"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e2e"
+  },
+  "summary": "Dietrich College Staff Appreciation Lunch",
+  "description": "Please join us as we celebrate our staff and recognize those who are marking milestone years of service.Box lunches to go will be provided.Rain location: Posner Hall 340 (Grand Room)Register Now",
+  "location": "Baker Hall Patio  ",
+  "start_time": 1655220600,
+  "end_time": 1655224200,
+  "url": null,
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "Dietrich",
+    "Dietrich"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e2f"
+  },
+  "summary": "Diversity and Inclusion Network Pride Luncheon",
+  "description": "The Center for Student Diversity and Inclusion welcomes you to its Diversity and Inclusion Network luncheon on Thursday, June 30 from 12-1 p.m.  As Pride Month comes to an end, we invite you you to share a meal with us in the Center. Conversation will be led by CMU's own Dr. Tim Haggerty, director of the Humanities Scholars Program and adjunct professor in History. Register for the luncheon.&nbsp;&nbsp;",
+  "location": "",
+  "start_time": 1656604800,
+  "end_time": 1656608400,
+  "url": null,
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "Dietrich",
+    "Dietrich"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e30"
+  },
+  "summary": "Pride Event for the LGBTQIA+ Faculty and Staff Alliance",
+  "description": "Please join us for a Pride Event on June 21, 12 to 1 p.m. Lunch will be provided. We will be collecting items for the Hugh Lane Wellness Foundation for their community pantry. If you can bring one or two items on the list, that would be greatly appreciated!If interested, please RSVP to lgbtqia-employee-resource-group@andrew.cmu.edu for location.",
+  "location": "",
+  "start_time": 1655827200,
+  "end_time": 1655830800,
+  "url": null,
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "Dietrich",
+    "Dietrich"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e31"
+  },
+  "summary": "Pride Day at the Pirates Game",
+  "description": "In honor of Pride month, the Center for Student Diversity and Inclusion invites you to join us at Pride Night at the Pirates' game on Friday, June 17 at 7:00 p.m.! Students can request tickets sponsored by the Center using this form. Tickets will be confirmed on Monday, June 6.All attendees will receive a special Pride Pirates t-shirt. If you are a faculty or staff member and are interested in a ticket, you may email csdi@andrew.cmu.edu and we will email you if there are available tickets. Tickets are limited to two per person.",
+  "location": "",
+  "start_time": 1655506800,
+  "end_time": 1655521200,
+  "url": null,
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "Dietrich",
+    "Dietrich"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e32"
+  },
+  "summary": "Mental Health First Aid",
+  "description": "      Online Event Location:&nbsp;            Register Online&nbsp;                          Learn how to identify, understand and respond to signs of mental health and substance abuse problems.Open to all members of the Carnegie Mellon University community.For more information and to sign up, visit Counseling and Psychological Services' Outreach, Prevention and Education page.",
+  "location": "",
+  "start_time": 1655388000,
+  "end_time": 1655413200,
+  "url": null,
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "Dietrich",
+    "Dietrich"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e33"
+  },
+  "summary": "AIRSAGE Morning Brew Podcast feat. Lisa Kay Schweyer",
+  "description": "Listen here…",
+  "location": null,
+  "start_time": 1656072000,
+  "end_time": 1656104400,
+  "url": "https://mobility21.cmu.edu/event/airsage-morning-brew-podcast-feat-lisa-kay-schweyer/",
+  "tags": [
+    "All",
+    "Academics",
+    "Schools",
+    "Heinz",
+    "Mobility21/Traffic21"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e34"
+  },
+  "summary": "CMU Winter Activities Fair",
+  "description": "\"The Office of Student Activities organizes a Fall and Winter Activities Fair that will showcase many of our student organizations.\" -- https://www.cmu.edu/student-affairs/slice/involvement/traditions/fair.html\n\nCome look for CClub!",
+  "location": "",
+  "start_time": 1675290600,
+  "end_time": 1675297800,
+  "url": null,
+  "tags": [
+    "All",
+    "Club",
+    "CMU Computer Club"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e35"
+  },
+  "summary": "CMU Fall Activities Fair",
+  "description": "\"The Office of Student Activities organizes a Fall and Winter Activities Fair that will showcase many of our student organizations.\" -- https://www.cmu.edu/student-affairs/slice/involvement/traditions/fair.html\n\nCome look for CClub!",
+  "location": "",
+  "start_time": 1662582600,
+  "end_time": 1662589800,
+  "url": null,
+  "tags": [
+    "All",
+    "Club",
+    "CMU Computer Club"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e36"
+  },
+  "summary": " Pause for Gratitude",
+  "description": "Join CMU community members as we take time to pause and take stock of what \nis good in our lives and in the world. Sessions are casual; we start with a \nbrief centering practice, often use a prompt to spark conversation, and \nshare as we are ready to do so. Open to all. The Zoom link\nhttps://cmu.zoom.us/j/95963148050 is the same each week.",
+  "location": "https://cmu.zoom.us/j/95963148050",
+  "start_time": 1655229600,
+  "end_time": 1655231400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1842/1655229600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e37"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1655240400,
+  "end_time": 1655251200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1826/1655240400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e38"
+  },
+  "summary": " Anti-Racism in Action Workshop",
+  "description": "Join Dr. Wanda-Heading Grant and Mark D’Angelo from the Office of the Vice \nProvost for Diversity, Equity and Inclusion and Chief Diversity Officer for \nthis engaging and interactive workshop exploring what it means to be \nanti-racist. Learn concepts, skills, and strategies to help translate your \nanti-racist beliefs and sentiments into action-oriented anti-racist \nallyship within the field of higher education and here at Carnegie Mellon \nUniversity. Registration is limited and open to all CMU community members.\n\nRegister. https://cmuadmin.wufoo.com/forms/antiracism-in-action/",
+  "location": "Tepper School 2611",
+  "start_time": 1655301600,
+  "end_time": 1655316000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1839/1655301600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e39"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1655326800,
+  "end_time": 1655337600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1827/1655326800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e3a"
+  },
+  "summary": " Mental Health First Aid",
+  "description": "Learn how to identify, understand and respond to signs of mental health and \nsubstance abuse problems.\n\nOpen to all members of the Carnegie Mellon University community.\n\nFor more information and to sign up, visit Counseling and Psychological \nServices' Outreach, Prevention and Education page.\nhttps://docs.google.com/forms/d/e/1FAIpQLSfkS45n44u_SU9hu78HNW3_P69WanN05uyUWTvNrJ5mPlf1GA/viewform",
+  "location": "https://docs.google.com/forms/d/e/1FAIpQLSfkS45n44u_SU9hu78HNW3_P69WanN05uyUWTvNrJ5mPlf1GA/viewform",
+  "start_time": 1655388000,
+  "end_time": 1655413200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1822/1655388000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e3b"
+  },
+  "summary": " First Annual Juneteenth Welcome Reception with Sankofa",
+  "description": "Sankofa is a concept firmly rooted in the teachings of the Akans people of \nwhat is now present-day Ghana. Symbolized by a bird with its feet firmly \nplanted forward with its head turned backward, its literal meaning is “it \nis not taboo to fetch what is at risk of being left behind.” The Office of \nthe Vice Provost for Diversity, Equity and Inclusion and Chief Diversity \nOfficer is excited to partner with CMU’s Black Faculty and Staff Alliance, \nnamed Sankofa\nhttps://www.cmu.edu/hr/work-life/get-involved/employee-resource-groups/black-faculty-staff.html \n, to kick off this time of remembrance and celebration to reinvigorate the \npower of our communal voice for freedom that is informed by the lessons of \nour past.",
+  "location": "Newell Simon Atrium",
+  "start_time": 1655411400,
+  "end_time": 1655416800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1840/1655411400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e3c"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1655478000,
+  "end_time": 1655488800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1828/1655478000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e3d"
+  },
+  "summary": " Juneteenth Keynote and Conversation with Jamelle Bouie",
+  "description": "Jamelle Bouie, a columnist for The New York Times and political analyst for \nCBS News, covers U.S. politics, public policy, elections and race.\n\nBouie's political instincts provide audiences with unique insight on the \npast, present, and future of our national politics, policy and the state of \nrace relations. As he did while writing for Slate and the Daily Beast, \nBouie shares eye-opening perspectives on issues concerning the issues at \nplay in America today.\n\nJoin us for this keynote event and conversation moderated by Dr. Wanda \nHeading-Grant.\n\nStreamed in Rangos via Zoom.",
+  "location": "https://cmucommunity.force.com/customquickevents?id=a3p2S000000Zilo&custom=true",
+  "start_time": 1655481600,
+  "end_time": 1655486100,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1838/1655481600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e3e"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1655485200,
+  "end_time": 1655488800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1655485200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e3f"
+  },
+  "summary": " Jubilee on the Cut",
+  "description": "Following in the traditions of Juneteenth Freedom celebrations, the CMU \nBlack Graduate Student Organization (BGSO) will host its third annual \nJuneteenth Jubilee. This celebration is open to all and features music, \noutdoor field games, food, giveaways and educational materials. This event \nis presented in partnership with the Center for Student Diversity and \nInclusion, Carnegie Mellon Black Alumni Association, and the University of \nPittsburgh Black Law Student Association.",
+  "location": "The Cut",
+  "start_time": 1655496000,
+  "end_time": 1655503200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1841/1655496000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e40"
+  },
+  "summary": " Pride Day at the Pirates' Game!",
+  "description": "In honor of Pride month, the Center invites you to join us at Pride Night \nat the Pirates' game on Friday, June 17 at 7:00 p.m.! Students can request \ntickets sponsored by the Center using the form below. Tickets will be \nconfirmed on Monday, June 6. All attendees will receive a special Pride \nPirates t-shirt. If you are a faculty or staff member and are interested in \na ticket, you may email csdi@andrew.cmu.edu mailto:csdi@andrew.cmu.edu and \nwe will email you if there are available tickets. Tickets are limited to \ntwo per person.\n\nRequest Tickets to Pride Night with the Pirates!\nhttps://cmu.ca1.qualtrics.com/jfe/form/SV_eLk7iYh9ICZy7LE",
+  "location": "https://cmu.ca1.qualtrics.com/jfe/form/SV_eLk7iYh9ICZy7LE",
+  "start_time": 1655506800,
+  "end_time": 1655506800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1832/1655506800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e41"
+  },
+  "summary": " Pride Day at the Pirates Game",
+  "description": "In honor of Pride month, the Center for Student Diversity and Inclusion \ninvites you to join us at Pride Night at the Pirates' game on Friday, June \n17 at 7:00 p.m.! Students can request tickets sponsored by the Center \nusing this form https://cmu.ca1.qualtrics.com/jfe/form/SV_eLk7iYh9ICZy7LE \n. Tickets will be confirmed on Monday, June 6.\n\nAll attendees will receive a special Pride Pirates t-shirt. If you are a \nfaculty or staff member and are interested in a ticket, you may email \ncsdi@andrew.cmu.edu mailto:csdi@andrew.cmu.edu and we will email you if \nthere are available tickets. Tickets are limited to two per person.",
+  "location": null,
+  "start_time": 1655506800,
+  "end_time": 1655517600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1835/1655506800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e42"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1655568000,
+  "end_time": 1655578800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1829/1655568000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e43"
+  },
+  "summary": " Pride Event for the LGBTQIA+ Faculty and Staff Alliance",
+  "description": "Please join us for a Pride Event on June 21, 12 to 1 p.m. Lunch will be \nprovided. We will be collecting items for the Hugh Lane Wellness Foundation \nfor their community pantry. If you can bring one or two items on the list, \nthat would be greatly appreciated!\n\nIf interested, please RSVP to \nlgbtqia-employee-resource-group@andrew.cmu.edu\nmailto:lgbtqia-employee-resource-group@andrew.cmu.edu for location.",
+  "location": null,
+  "start_time": 1655827200,
+  "end_time": 1655830800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1837/1655827200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e44"
+  },
+  "summary": " Master of Public Management (MPM) Information Session",
+  "description": "Join us for a one-hour Information Session to learn more about Heinz \nCollege's Master of Public Management (MPM) program. The MPM curriculum, \ncareer outcomes and admissions process will be discussed.\n\nAttendees are welcome to join the Information Session either In Person in \nHamburg Hall Room 1007, or virtually via Zoom.\n\nRSVP athttps://apply.heinz.cmu.edu/register/06-21-2022-mpm-info-session\nhttps://apply.heinz.cmu.edu/register/06-22-mpm-info-session-ip",
+  "location": "https://apply.heinz.cmu.edu/register/06-21-2022-mpm-info-session",
+  "start_time": 1655827200,
+  "end_time": 1655830800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1844/1655827200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e45"
+  },
+  "summary": " Pause for Gratitude",
+  "description": "Join CMU community members as we take time to pause and take stock of what \nis good in our lives and in the world. Sessions are casual; we start with a \nbrief centering practice, often use a prompt to spark conversation, and \nshare as we are ready to do so. Open to all. The Zoom link\nhttps://cmu.zoom.us/j/95963148050 is the same each week.",
+  "location": "https://cmu.zoom.us/j/95963148050",
+  "start_time": 1655834400,
+  "end_time": 1655836200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1842/1655834400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e46"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1655845200,
+  "end_time": 1655856000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1826/1655845200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e47"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1655931600,
+  "end_time": 1655942400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1827/1655931600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e48"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1656082800,
+  "end_time": 1656093600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1828/1656082800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e49"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1656090000,
+  "end_time": 1656093600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1656090000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e4a"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1656172800,
+  "end_time": 1656183600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1829/1656172800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e4b"
+  },
+  "summary": " Pride Month Keynote Lecture with Hugh Ryan",
+  "description": "Hugh Ryan http://www.hughryan.org/about is a writer and curator, and most \nrecently, the author of \\\"The Women's House of Detention\nhttps://www.boldtypebooks.com/titles/hugh-ryan/the-womens-house-of-detention/9781645036661/ \n,\\\" a queer history of the infamous prison that once dominated Greenwich \nVillage. His first book, \\\"When Brooklyn Was Queer,\\\" won a 2020 New York \nCity Book Award, was a New York Times Editors' Choice in 2019, and was a \nfinalist for the Randy Shilts and Lambda Literary Awards. He was honored \nwith the 2020 Allan Berube Prize from the American Historical Association. \nIn 2019-2021, he worked on the Hidden Voices: LGBTQ+ Stories in U.S. \nHistory curricular materials for the NYC Department of Education.\n\nJoin us in person or on Zoom for this keynote address and conversation.\n\nRegister.\nhttps://cmucommunity.force.com/customquickevents?id=a3p2S000000ZimN&custom=true",
+  "location": "Simmons B Auditorium, Tepper Quad, and on Zoom",
+  "start_time": 1656432000,
+  "end_time": 1656436500,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1843/1656432000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e4c"
+  },
+  "summary": " Pause for Gratitude",
+  "description": "Join CMU community members as we take time to pause and take stock of what \nis good in our lives and in the world. Sessions are casual; we start with a \nbrief centering practice, often use a prompt to spark conversation, and \nshare as we are ready to do so. Open to all. The Zoom link\nhttps://cmu.zoom.us/j/95963148050 is the same each week.",
+  "location": "https://cmu.zoom.us/j/95963148050",
+  "start_time": 1656439200,
+  "end_time": 1656441000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1842/1656439200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e4d"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1656450000,
+  "end_time": 1656460800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1826/1656450000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e4e"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1656536400,
+  "end_time": 1656547200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1827/1656536400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e4f"
+  },
+  "summary": " Diversity & Inclusion Network Pride Luncheon",
+  "description": "The Center welcomes you to our Diversity and Inclusion Network luncheon on \nThursday, June 30 from 12-1 p.m. As Pride Month comes to an end, we invite \nyou you to share a meal with us in the Center. Conversation will be led by \nCMU's own Dr. Tim Haggerty, the Director of the Humanities Scholars Program \nand adjunct professor in History.\n\nRegister for the Pride Luncheon\nhttps://cmu.ca1.qualtrics.com/jfe/form/SV_dbAZ1adMfX69hyK",
+  "location": "Center for Student Diversity and Inclusion, CUC LL 75,5000 Forbes Ave, Pittsburgh, PA 15213, USA, https://cmu.ca1.qualtrics.com/jfe/form/SV_dbAZ1adMfX69hyK",
+  "start_time": 1656604800,
+  "end_time": 1656604800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1831/1656604800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e50"
+  },
+  "summary": " Diversity and Inclusion Network Pride Luncheon",
+  "description": "The Center for Student Diversity and Inclusion welcomes you to its \nDiversity and Inclusion Network luncheon on Thursday, June 30 from 12-1 \np.m. As Pride Month comes to an end, we invite you you to share a meal with \nus in the Center. Conversation will be led by CMU's own Dr. Tim Haggerty\nhttps://www.cmu.edu/dietrich/history/people/instructional-staff/haggerty.html \n, director of the Humanities Scholars Program\nhttps://www.cmu.edu/dietrich/hsp/\nhttps://cmu.ca1.qualtrics.com/jfe/form/SV_dbAZ1adMfX69hyK and adjunct \nprofessor in History. Register for the luncheon\nhttps://cmu.ca1.qualtrics.com/jfe/form/SV_dbAZ1adMfX69hyK .",
+  "location": null,
+  "start_time": 1656604800,
+  "end_time": 1656608400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1836/1656604800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e51"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1656687600,
+  "end_time": 1656698400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1828/1656687600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e52"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1656694800,
+  "end_time": 1656698400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1656694800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e53"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1656777600,
+  "end_time": 1656788400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1829/1656777600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e54"
+  },
+  "summary": " Pause for Gratitude",
+  "description": "Join CMU community members as we take time to pause and take stock of what \nis good in our lives and in the world. Sessions are casual; we start with a \nbrief centering practice, often use a prompt to spark conversation, and \nshare as we are ready to do so. Open to all. The Zoom link\nhttps://cmu.zoom.us/j/95963148050 is the same each week.",
+  "location": "https://cmu.zoom.us/j/95963148050",
+  "start_time": 1657044000,
+  "end_time": 1657045800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1842/1657044000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e55"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1657054800,
+  "end_time": 1657065600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1826/1657054800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e56"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1657141200,
+  "end_time": 1657152000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1827/1657141200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e57"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1657292400,
+  "end_time": 1657303200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1828/1657292400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e58"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1657299600,
+  "end_time": 1657303200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1657299600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e59"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1657382400,
+  "end_time": 1657393200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1829/1657382400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e5a"
+  },
+  "summary": " Pause for Gratitude",
+  "description": "Join CMU community members as we take time to pause and take stock of what \nis good in our lives and in the world. Sessions are casual; we start with a \nbrief centering practice, often use a prompt to spark conversation, and \nshare as we are ready to do so. Open to all. The Zoom link\nhttps://cmu.zoom.us/j/95963148050 is the same each week.",
+  "location": "https://cmu.zoom.us/j/95963148050",
+  "start_time": 1657648800,
+  "end_time": 1657650600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1842/1657648800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e5b"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1657659600,
+  "end_time": 1657670400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1826/1657659600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e5c"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1657746000,
+  "end_time": 1657756800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1827/1657746000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e5d"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1657897200,
+  "end_time": 1657908000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1828/1657897200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e5e"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1657904400,
+  "end_time": 1657908000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1657904400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e5f"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1657987200,
+  "end_time": 1657998000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1829/1657987200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e60"
+  },
+  "summary": " Pause for Gratitude",
+  "description": "Join CMU community members as we take time to pause and take stock of what \nis good in our lives and in the world. Sessions are casual; we start with a \nbrief centering practice, often use a prompt to spark conversation, and \nshare as we are ready to do so. Open to all. The Zoom link\nhttps://cmu.zoom.us/j/95963148050 is the same each week.",
+  "location": "https://cmu.zoom.us/j/95963148050",
+  "start_time": 1658253600,
+  "end_time": 1658255400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1842/1658253600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e61"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1658264400,
+  "end_time": 1658275200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1826/1658264400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e62"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1658350800,
+  "end_time": 1658361600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1827/1658350800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e63"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1658502000,
+  "end_time": 1658512800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1828/1658502000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e64"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1658509200,
+  "end_time": 1658512800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1658509200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e65"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1658592000,
+  "end_time": 1658602800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1829/1658592000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e66"
+  },
+  "summary": " Pause for Gratitude",
+  "description": "Join CMU community members as we take time to pause and take stock of what \nis good in our lives and in the world. Sessions are casual; we start with a \nbrief centering practice, often use a prompt to spark conversation, and \nshare as we are ready to do so. Open to all. The Zoom link\nhttps://cmu.zoom.us/j/95963148050 is the same each week.",
+  "location": "https://cmu.zoom.us/j/95963148050",
+  "start_time": 1658858400,
+  "end_time": 1658860200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1842/1658858400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e67"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1658869200,
+  "end_time": 1658880000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1826/1658869200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e68"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1658955600,
+  "end_time": 1658966400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1827/1658955600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e69"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1659106800,
+  "end_time": 1659117600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1828/1659106800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e6a"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1659114000,
+  "end_time": 1659117600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1659114000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e6b"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1659196800,
+  "end_time": 1659207600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1829/1659196800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e6c"
+  },
+  "summary": " Pause for Gratitude",
+  "description": "Join CMU community members as we take time to pause and take stock of what \nis good in our lives and in the world. Sessions are casual; we start with a \nbrief centering practice, often use a prompt to spark conversation, and \nshare as we are ready to do so. Open to all. The Zoom link\nhttps://cmu.zoom.us/j/95963148050 is the same each week.",
+  "location": "https://cmu.zoom.us/j/95963148050",
+  "start_time": 1659463200,
+  "end_time": 1659465000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1842/1659463200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e6d"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1659474000,
+  "end_time": 1659484800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1826/1659474000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e6e"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1659560400,
+  "end_time": 1659571200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1827/1659560400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e6f"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1659711600,
+  "end_time": 1659722400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1828/1659711600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e70"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1659718800,
+  "end_time": 1659722400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1659718800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e71"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1659801600,
+  "end_time": 1659812400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1829/1659801600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e72"
+  },
+  "summary": " Pause for Gratitude",
+  "description": "Join CMU community members as we take time to pause and take stock of what \nis good in our lives and in the world. Sessions are casual; we start with a \nbrief centering practice, often use a prompt to spark conversation, and \nshare as we are ready to do so. Open to all. The Zoom link\nhttps://cmu.zoom.us/j/95963148050 is the same each week.",
+  "location": "https://cmu.zoom.us/j/95963148050",
+  "start_time": 1660068000,
+  "end_time": 1660069800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1842/1660068000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e73"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1660078800,
+  "end_time": 1660089600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1826/1660078800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e74"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1660165200,
+  "end_time": 1660176000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1827/1660165200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e75"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1660316400,
+  "end_time": 1660327200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1828/1660316400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e76"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1660323600,
+  "end_time": 1660327200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1660323600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e77"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1660406400,
+  "end_time": 1660417200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1829/1660406400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e78"
+  },
+  "summary": " Pause for Gratitude",
+  "description": "Join CMU community members as we take time to pause and take stock of what \nis good in our lives and in the world. Sessions are casual; we start with a \nbrief centering practice, often use a prompt to spark conversation, and \nshare as we are ready to do so. Open to all. The Zoom link\nhttps://cmu.zoom.us/j/95963148050 is the same each week.",
+  "location": "https://cmu.zoom.us/j/95963148050",
+  "start_time": 1660672800,
+  "end_time": 1660674600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1842/1660672800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e79"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1660683600,
+  "end_time": 1660694400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1826/1660683600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e7a"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1660770000,
+  "end_time": 1660780800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1827/1660770000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e7b"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1660921200,
+  "end_time": 1660932000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1828/1660921200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e7c"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1660928400,
+  "end_time": 1660932000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1660928400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e7d"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1661011200,
+  "end_time": 1661022000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1829/1661011200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e7e"
+  },
+  "summary": " Pause for Gratitude",
+  "description": "Join CMU community members as we take time to pause and take stock of what \nis good in our lives and in the world. Sessions are casual; we start with a \nbrief centering practice, often use a prompt to spark conversation, and \nshare as we are ready to do so. Open to all. The Zoom link\nhttps://cmu.zoom.us/j/95963148050 is the same each week.",
+  "location": "https://cmu.zoom.us/j/95963148050",
+  "start_time": 1661277600,
+  "end_time": 1661279400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1842/1661277600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e7f"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1661288400,
+  "end_time": 1661299200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1826/1661288400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e80"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1661374800,
+  "end_time": 1661385600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1827/1661374800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e81"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1661526000,
+  "end_time": 1661536800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1828/1661526000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e82"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1661533200,
+  "end_time": 1661536800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1661533200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e83"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1661616000,
+  "end_time": 1661626800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1829/1661616000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e84"
+  },
+  "summary": " Pause for Gratitude",
+  "description": "Join CMU community members as we take time to pause and take stock of what \nis good in our lives and in the world. Sessions are casual; we start with a \nbrief centering practice, often use a prompt to spark conversation, and \nshare as we are ready to do so. Open to all. The Zoom link\nhttps://cmu.zoom.us/j/95963148050 is the same each week.",
+  "location": "https://cmu.zoom.us/j/95963148050",
+  "start_time": 1661882400,
+  "end_time": 1661884200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1842/1661882400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e85"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1661893200,
+  "end_time": 1661904000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1826/1661893200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e86"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1661979600,
+  "end_time": 1661990400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1827/1661979600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e87"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1662130800,
+  "end_time": 1662141600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1828/1662130800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e88"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1662138000,
+  "end_time": 1662141600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1662138000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e89"
+  },
+  "summary": " CMU Pantry Shopping Hours",
+  "description": "The CMU Pantry https://www.cmu.edu/student-affairs/resources/cmu-pantry/ \nis a free resource that combats food insecurity by providing food \nassistance to CMU students and their dependents. All current CMU students \nare eligible to shop at the Pantry. Shopping times during the Fall 2021 \nsemester require a reservation. Please visit the Pantry's website\nhttps://www.cmu.edu/student-affairs/resources/cmu-pantry/ to learn more \nabout the Pantry, including how to reserve a shopping time.",
+  "location": "CMU Pantry, Residence on Fifth,4700 Fifth Ave, Pittsburgh, PA 15213, USA",
+  "start_time": 1662220800,
+  "end_time": 1662231600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1829/1662220800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e8a"
+  },
+  "summary": " Pause for Gratitude",
+  "description": "Join CMU community members as we take time to pause and take stock of what \nis good in our lives and in the world. Sessions are casual; we start with a \nbrief centering practice, often use a prompt to spark conversation, and \nshare as we are ready to do so. Open to all. The Zoom link\nhttps://cmu.zoom.us/j/95963148050 is the same each week.",
+  "location": "https://cmu.zoom.us/j/95963148050",
+  "start_time": 1662487200,
+  "end_time": 1662489000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/1842/1662487200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e8b"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1662742800,
+  "end_time": 1662746400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1662742800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e8c"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1663347600,
+  "end_time": 1663351200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1663347600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e8d"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1663952400,
+  "end_time": 1663956000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1663952400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e8e"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1664557200,
+  "end_time": 1664560800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1664557200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e8f"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1665162000,
+  "end_time": 1665165600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1665162000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e90"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1665766800,
+  "end_time": 1665770400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1665766800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e91"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1666371600,
+  "end_time": 1666375200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1666371600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e92"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1666976400,
+  "end_time": 1666980000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1666976400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e93"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1667581200,
+  "end_time": 1667584800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1667581200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e94"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1668189600,
+  "end_time": 1668193200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1668189600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e95"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1668794400,
+  "end_time": 1668798000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1668794400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e96"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1669399200,
+  "end_time": 1669402800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1669399200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e97"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1670004000,
+  "end_time": 1670007600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1670004000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e98"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1670608800,
+  "end_time": 1670612400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1670608800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e99"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1671213600,
+  "end_time": 1671217200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1671213600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e9a"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1671818400,
+  "end_time": 1671822000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1671818400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e9b"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1672423200,
+  "end_time": 1672426800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1672423200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e9c"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1673028000,
+  "end_time": 1673031600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1673028000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e9d"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1673632800,
+  "end_time": 1673636400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1673632800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e9e"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1674237600,
+  "end_time": 1674241200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1674237600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423e9f"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1674842400,
+  "end_time": 1674846000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1674842400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ea0"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1675447200,
+  "end_time": 1675450800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1675447200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ea1"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1676052000,
+  "end_time": 1676055600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1676052000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ea2"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1676656800,
+  "end_time": 1676660400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1676656800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ea3"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1677261600,
+  "end_time": 1677265200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1677261600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ea4"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1677866400,
+  "end_time": 1677870000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1677866400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ea5"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1678471200,
+  "end_time": 1678474800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1678471200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ea6"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1679072400,
+  "end_time": 1679076000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1679072400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ea7"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1679677200,
+  "end_time": 1679680800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1679677200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ea8"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1680282000,
+  "end_time": 1680285600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1680282000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ea9"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1680886800,
+  "end_time": 1680890400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1680886800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423eaa"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1681491600,
+  "end_time": 1681495200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1681491600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423eab"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1682096400,
+  "end_time": 1682100000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1682096400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423eac"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1682701200,
+  "end_time": 1682704800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1682701200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ead"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1683306000,
+  "end_time": 1683309600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1683306000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423eae"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1683910800,
+  "end_time": 1683914400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1683910800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423eaf"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1684515600,
+  "end_time": 1684519200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1684515600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423eb0"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1685120400,
+  "end_time": 1685124000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1685120400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423eb1"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1685725200,
+  "end_time": 1685728800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1685725200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423eb2"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1686330000,
+  "end_time": 1686333600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1686330000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423eb3"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1686934800,
+  "end_time": 1686938400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1686934800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423eb4"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1687539600,
+  "end_time": 1687543200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1687539600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423eb5"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1688144400,
+  "end_time": 1688148000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1688144400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423eb6"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1688749200,
+  "end_time": 1688752800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1688749200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423eb7"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1689354000,
+  "end_time": 1689357600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1689354000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423eb8"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1689958800,
+  "end_time": 1689962400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1689958800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423eb9"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1690563600,
+  "end_time": 1690567200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1690563600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423eba"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1691168400,
+  "end_time": 1691172000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1691168400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ebb"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1691773200,
+  "end_time": 1691776800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1691773200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ebc"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1692378000,
+  "end_time": 1692381600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1692378000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ebd"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1692982800,
+  "end_time": 1692986400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1692982800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ebe"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1693587600,
+  "end_time": 1693591200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1693587600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ebf"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1694192400,
+  "end_time": 1694196000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1694192400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ec0"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1694797200,
+  "end_time": 1694800800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1694797200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ec1"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1695402000,
+  "end_time": 1695405600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1695402000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ec2"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1696006800,
+  "end_time": 1696010400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1696006800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ec3"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1696611600,
+  "end_time": 1696615200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1696611600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ec4"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1697216400,
+  "end_time": 1697220000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1697216400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ec5"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1697821200,
+  "end_time": 1697824800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1697821200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ec6"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1698426000,
+  "end_time": 1698429600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1698426000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ec7"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1699030800,
+  "end_time": 1699034400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1699030800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ec8"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1699639200,
+  "end_time": 1699642800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1699639200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ec9"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1700244000,
+  "end_time": 1700247600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1700244000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423eca"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1700848800,
+  "end_time": 1700852400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1700848800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ecb"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1701453600,
+  "end_time": 1701457200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1701453600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ecc"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1702058400,
+  "end_time": 1702062000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1702058400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ecd"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1702663200,
+  "end_time": 1702666800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1702663200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ece"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1703268000,
+  "end_time": 1703271600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1703268000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ecf"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1703872800,
+  "end_time": 1703876400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1703872800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ed0"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1704477600,
+  "end_time": 1704481200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1704477600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ed1"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1705082400,
+  "end_time": 1705086000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1705082400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ed2"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1705687200,
+  "end_time": 1705690800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1705687200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ed3"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1706292000,
+  "end_time": 1706295600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1706292000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ed4"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1706896800,
+  "end_time": 1706900400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1706896800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ed5"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1707501600,
+  "end_time": 1707505200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1707501600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ed6"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1708106400,
+  "end_time": 1708110000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1708106400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ed7"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1708711200,
+  "end_time": 1708714800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1708711200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ed8"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1709316000,
+  "end_time": 1709319600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1709316000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ed9"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1709920800,
+  "end_time": 1709924400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1709920800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423eda"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1710522000,
+  "end_time": 1710525600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1710522000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423edb"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1711126800,
+  "end_time": 1711130400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1711126800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423edc"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1711731600,
+  "end_time": 1711735200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1711731600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423edd"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1712336400,
+  "end_time": 1712340000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1712336400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ede"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1712941200,
+  "end_time": 1712944800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1712941200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423edf"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1713546000,
+  "end_time": 1713549600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1713546000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ee0"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1714150800,
+  "end_time": 1714154400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1714150800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ee1"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1714755600,
+  "end_time": 1714759200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1714755600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ee2"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1715360400,
+  "end_time": 1715364000,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1715360400000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ee3"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1715965200,
+  "end_time": 1715968800,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1715965200000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ee4"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1716570000,
+  "end_time": 1716573600,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1716570000000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ee5"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1717174800,
+  "end_time": 1717178400,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1717174800000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ee6"
+  },
+  "summary": " International Community Connection Hour",
+  "description": "Join us in this weekly connection hour hosted by internationals for \ninternationals!\n\nThis is open to all internationals (students, staff, and faculty) in the \nCMU community who want to come together to connect and support each other.\n\nWith:\nIfe Sinclair, Ph.D\nShubhara Bhattacharjee, Psy.D\nMengchun Chiang, Ph.D\n\nJoin Zoom Meeting ID: 969-6481-1810",
+  "location": null,
+  "start_time": 1717779600,
+  "end_time": 1717783200,
+  "url": "https://tockify.com/carnegie.mellon.student.affairs/detail/991/1717779600000",
+  "tags": [
+    "All",
+    "Recreation",
+    "Student Affairs"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ee7"
+  },
+  "summary": " Writing a Literature Review",
+  "description": "Writing a Literature Review\n\n\nJune 14, 2022 1:00 PM Eastern Time (US and Canada)\nZoom\n\nA related work section, or literature review, synthesizes relevant past \nliterature to connect your work to the broader field. It also builds your \ncredibility by showing your familiarity with major developments and trends \nin the field. However, it is easy for the literature review to become a \n“data dump” that overwhelms your reader with extraneous or irrelevant \ninformation. This workshop will give students strategies and language to \nconnect research into trends and put studies in conversation with each \nother. We will look at strong and weak examples and focus on the language \nthey use. This workshop is appropriate for students in the sciences and \nhumanities, writing literature reviews in journal articles, research \npapers, dissertations/theses, and more.\n\nLearning Objectives:\n\n    * Learn strategies for synthesizing relevant past literature and\n      connecting your work to the broader field.\n    * Practice putting previous studies in conversation with each other.\n    * Learn how to build your credibility by showing your familiarity with\n      major developments and trends in your field.\n\nRegister for the June 14th workshop now!\n\nPlease email access@andrew.cmu.edu mailto:access@andrew.cmu.edu if you have \na disability and need an accommodation for your disability in order to \nparticipate fully in the meeting.",
+  "location": "https://forms.gle/SfCnwwL463DyGky78",
+  "start_time": 1655226000,
+  "end_time": 1655229600,
+  "url": "https://tockify.com/student.success/detail/263/1655226000000",
+  "tags": [
+    "All",
+    "Insitutions",
+    "Intercultural Communication Center"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ee8"
+  },
+  "summary": " Writing Your Teaching Statement",
+  "description": "Writing Your Teaching Statement\n\n\nJune 15, 2022 4:00 PM Eastern Time (US and Canada)\nZoom\n\nGetting ready for the academic job market? Writing your teaching philosophy \ncan be a challenging part. This workshop will present structure and content \nof a teaching philosophy, and will help you learn how to interpret job ads \nand tailor your statement for different universities and positions.\n\nLearning Objectives:\n\n    * Learn strategies to align your learning objectives with disciplinary\n      values.\n    * Learn strategies for how to give concrete examples of methodology\n      used in your classroom.\n    * Learn strategies for how to explicitly link your teaching methods to\n      learning objectives.\n\nRegister for the June 15th workshop now!\n\nPlease email access@andrew.cmu.edu mailto:access@andrew.cmu.edu if you have \na disability and need an accommodation for your disability in order to \nparticipate fully in the meeting.",
+  "location": "https://forms.gle/SkFuiMGypdHcpr9F9",
+  "start_time": 1655323200,
+  "end_time": 1655326800,
+  "url": "https://tockify.com/student.success/detail/257/1655323200000",
+  "tags": [
+    "All",
+    "Insitutions",
+    "Intercultural Communication Center"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423ee9"
+  },
+  "summary": " ESL in the USA - Professional Communication",
+  "description": "ESL in the USA - Professional Communication\n\n\nJuly 13, 2022 3:30 PM Eastern Time (US and Canada)\nIn Person\n\nThis workshop addresses the challenges of professional communication for \nnon-native English speakers by reviewing how to organize emails when making \na request and asking to be excused, presenting some useful language for \ncommunicating politely in these situations, and providing practice writing \nemails in these situations.\n\nLearning Objectives:\n\n    * Students will be able to write clear and concise emails when\n      communicating with faculty, colleagues, or students.\n    * Students will learn proper professional communication etiquette, and\n      exceptions to those standards.\n    * Students will learn how to recognize professional communication\n      breakdowns due to language gaps and cultural differences.\n\nRegister for the July 13th workshop now!\n\nPlease email access@andrew.cmu.edu mailto:access@andrew.cmu.edu if you have \na disability and need an accommodation for your disability in order to \nparticipate fully in the meeting.",
+  "location": "https://forms.gle/AQ2BpGfCMqg4pnbw5",
+  "start_time": 1657740600,
+  "end_time": 1657744200,
+  "url": "https://tockify.com/student.success/detail/259/1657740600000",
+  "tags": [
+    "All",
+    "Insitutions",
+    "Intercultural Communication Center"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423eea"
+  },
+  "summary": " Developing Identity 1 - Second Language Users",
+  "description": "Developing Identity 1 - Second Language Users\n\n\nJuly 20, 2022 3:30 PM Eastern Time (US and Canada)\nIn Person\n\nThis workshop is designed for learners to engage critically with their \nidentities, ideologies, and interactions in second language classrooms. \nThis workshop allows participants to interrogate their intersecting \nidentities while providing the tools to speak and write confidently about \nthemselves and their goals. This seminar focuses on daily dialogue, \ncultural nuance, and personal and professional identity which help \nparticipants facilitate conversations about themselves and the worlds they \noperate in. Participants will leave with confidence and understanding of \nhow their identities are shaped in second language classrooms.\n\nLearning Objectives:\n\n    * Interrogate your ideas about professional identity in a second\n      language classroom, specifically in an English speaking setting\n    * Understand how identities and ideologies in second languages are\n      formed\n    * Practice writing and speaking about yourself with confidence, clarity\n      and fluency\n    * Operationalize cultural and linguistic nuance in your daily dialogues\n    * Investigate cultural identities\n    * Identify your skill sets\n\nRegister for the July 20th workshop now!\n\nPlease email access@andrew.cmu.edu mailto:access@andrew.cmu.edu if you have \na disability and need an accommodation for your disability in order to \nparticipate fully in the meeting.",
+  "location": "https://forms.gle/XNGhEqXAFggWUwyVA",
+  "start_time": 1658345400,
+  "end_time": 1658349000,
+  "url": "https://tockify.com/student.success/detail/260/1658345400000",
+  "tags": [
+    "All",
+    "Insitutions",
+    "Intercultural Communication Center"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423eeb"
+  },
+  "summary": " Production, Flow, and Speaking in the US Classroom",
+  "description": "Production, Flow, and Speaking in the US Classroom\n\n\nJuly 27, 2022 3:30 PM Eastern Time (US and Canada)\nIn Person\n\nThis workshop will address the common factors, like cultural differences, \ninteraction styles, and assumptions about learning, that often hinder \ninternational students’ ability to interact effectively in English.\n\nLearning Objectives:\n\n    * Examine the role of participation and assumptions about conversation\n      styles in and outside the USA.\n    * Investigate cultural variations in interaction styles.\n    * Review useful phrases and body language connected to classroom\n      participation in the U.S.\n    * Practice jumping into daily conversations.\n\nRegister for the July 27th workshop now!\n\nPlease email access@andrew.cmu.edu mailto:access@andrew.cmu.edu if you have \na disability and need an accommodation for your disability in order to \nparticipate fully in the meeting.",
+  "location": "https://forms.gle/eaNpTVCuuPEZ1B5V8",
+  "start_time": 1658950200,
+  "end_time": 1658953800,
+  "url": "https://tockify.com/student.success/detail/261/1658950200000",
+  "tags": [
+    "All",
+    "Insitutions",
+    "Intercultural Communication Center"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423eec"
+  },
+  "summary": " Developing Identity 2 - Second Language Users",
+  "description": "Developing Identity 2 - Second Language Users\n\n\nAugust 10, 2022 3:30 PM Eastern Time (US and Canada)\nIn Person\n\nThis Part-2 workshop is designed for learners to engage critically with \ntheir identities, ideologies, and interactions in second language \nclassrooms through strategic group and paired practice. This workshop \nallows participants to interrogate their intersecting identities while \nproviding the tools to speak and write confidently about themselves and \ntheir goals.\n\nLearning Objectives:\n\n    * Hands on strategies for activating identity\n    * Interrogate your ideas about professional identity in a second\n      language classroom, specifically an English speaking setting\n    * Understand how identities and ideologies in second languages are\n      formed\n    * Practice writing and speaking about yourself with confidence, clarity\n      and fluency\n    * Identify your skill sets\n\nRegister for the August 10th workshop now!\n\nPlease email access@andrew.cmu.edu mailto:access@andrew.cmu.edu if you have \na disability and need an accommodation for your disability in order to \nparticipate fully in the meeting.",
+  "location": "https://forms.gle/Wb9rYijncvWkRVNf9",
+  "start_time": 1660159800,
+  "end_time": 1660163400,
+  "url": "https://tockify.com/student.success/detail/262/1660159800000",
+  "tags": [
+    "All",
+    "Insitutions",
+    "Intercultural Communication Center"
+  ]
+},
+{
+  "_id": {
+    "$oid": "62a97e692192f6b7c1423eed"
+  },
+  "summary": " Writing Your Graduate School Application Essay",
+  "description": "Writing Your Graduate School Application Essay\n\n\nAugust 16, 2022 5:00 PM Eastern Time (US and Canada)\nZoom\n\nAcross disciplines, the graduate school application essay is a vital part \nof the application process. Unlike undergraduate admission essays, graduate \nadmission committees want students with a clear commitment to the field in \nwhich they are applying, and the essay component is often the only chance \nthe applicant has to articulate how their goals fit into the program. This \nworkshop will address the basics of creating an effective graduate school \napplication essay, and place students in a position to successfully start \n(or continue!) their application essay. Specifically, this seminar will \ngive you the opportunity to:\n\nLearning Objectives:\n\n    * Discuss the different types of essays most often required by graduate\n      programs – personal statement vs statement of purpose vs diversity\n      statement\n    * Examine three of the most common application pitfalls – focusing on\n      gained skills, demonstrating skills through specifics, and tailoring\n      each essay\n    * Review some of the most commonly asked questions\n    * Practice identifying and revising sample statements\n    * Allow students to begin brainstorming their own essays or provide the\n      space for students to get feedback on materials they already have\n      started on\n\nRegister for the August 16th workshop now!\n\nPlease email access@andrew.cmu.edu mailto:access@andrew.cmu.edu if you have \na disability and need an accommodation for your disability in order to \nparticipate fully in the meeting.",
+  "location": "https://forms.gle/nLyUGXFimHu3AWTE7",
+  "start_time": 1660683600,
+  "end_time": 1660687200,
+  "url": "https://tockify.com/student.success/detail/264/1660683600000",
+  "tags": [
+    "All",
+    "Insitutions",
+    "Intercultural Communication Center"
+  ]
+}]
