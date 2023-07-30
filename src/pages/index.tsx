@@ -144,6 +144,7 @@ export default function Home() {
         <div className="container mt-20 flex flex-col gap-12 px-4 py-16">
           <Form {...form}>
             <form
+              // eslint-disable-next-line @typescript-eslint/no-misused-promises
               onSubmit={form.handleSubmit(console.log, console.error)}
               className="max-w-md space-y-8"
             >
